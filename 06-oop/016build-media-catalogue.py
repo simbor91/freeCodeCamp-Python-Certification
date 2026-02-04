@@ -46,7 +46,7 @@ class TVSeries(Movie):
 
     def __str__(self):
         return f"{self.title} ({self.year}) - {self.seasons} seasons, {self.total_episodes} episodes, {self.duration} min avg, {self.director}"
-
+        
 class MediaCatalogue:
     """A catalogue that can store different types of media items."""
     def __init__(self):
@@ -62,12 +62,27 @@ class MediaCatalogue:
     def get_movies(self):
         return [item for item in self.items if type(item) is Movie] # list comprehension
     
+    def get_tv_series(self):
+        return [item for item in self.items if type(item) is TVSeries]
+
     def __str__(self):
         if not self.items:
             return 'Media Catalogue (empty)'
+        
+        movies = self.get_movies()
+        series = self.get_tv_series()
+        
         result = f'Media Catalogue ({len(self.items)} items):\n\n'
-        for index, item in enumerate(self.items, 1):
-            result += f'{index}. {item}\n'
+
+        if movies:
+            result += '=== MOVIES ===\n'
+            for index, item in enumerate(movies, 1):
+                result += f'{index}. {item}\n'
+        if series:
+            result += '=== TV SERIES ===\n'
+            for index, item in enumerate(series, 1):
+                result += f'{index}. {item}\n'
+
         return result
 
 catalogue = MediaCatalogue()
