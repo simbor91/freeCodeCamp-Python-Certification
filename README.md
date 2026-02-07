@@ -42,3 +42,7 @@ Uploading of the small projects developed during this course
 - **Workshop 016**: Build a Media Catalogue
 
 *-> Key Skills: Inheritance & Polymorphism for Code Reuse, Name Mangling.*
+
+- **Workshop 017**: Build a Discount Calculator
+
+*-> Key Skills: Abstraction.*
