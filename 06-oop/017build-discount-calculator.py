@@ -1,0 +1,12 @@
+# 06 Objects-Oriented Programming (OOP)
+    # Abstraction
+#017 Workshop: Build a Discount Calculator
+
+class Product:
+    def __init__(self, name: str, price: float) -> None: # type hints + return type hint
+        self.name = name
+        self.price = price
+
+    def __str__(self):
+        return f'{self.name} - ${self.price}'
+    

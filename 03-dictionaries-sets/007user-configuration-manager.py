@@ -1,4 +1,4 @@
-# 04 Dictionaries and Sets
+# 03 Dictionaries and Sets
 # Lab: Build a User Configuration Manager
 
 test_settings = {

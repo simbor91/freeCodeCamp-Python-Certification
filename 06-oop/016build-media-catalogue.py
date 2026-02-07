@@ -1,4 +1,4 @@
-# 07 Objects-Oriented Programming (OOP)
+# 06 Objects-Oriented Programming (OOP)
     # Inheritance and Polymorphism
 # Workshop: Build a Media Catalogue
 

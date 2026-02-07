@@ -1,4 +1,4 @@
-# 06 Classes and Objects
+# 05 Classes and Objects
 # Workshop: Build an Email Simulator
 
 import datetime

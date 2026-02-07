@@ -1,4 +1,4 @@
-# 07 Objects-Oriented Programming (OOP)
+# 06 Objects-Oriented Programming (OOP)
     # OOP and Encapsulation
 # Lab: Build a Game Character Stats Tracker
 

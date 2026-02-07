@@ -1,4 +1,4 @@
-# 06 Classes and Objects
+# 05 Classes and Objects
 # Lab: Build a Budget App
 
 class Category:

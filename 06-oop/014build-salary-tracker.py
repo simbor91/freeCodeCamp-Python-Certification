@@ -1,4 +1,4 @@
-# 07 Objects-Oriented Programming (OOP)
+# 06 Objects-Oriented Programming (OOP)
     # OOP and Encapsulation
 # Workshop: Build a Salary Tracker
 
