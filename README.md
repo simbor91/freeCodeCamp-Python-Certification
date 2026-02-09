@@ -40,9 +40,10 @@ Uploading of the small projects developed during this course
 *-> Key Skills: OOP & Encapsulation, Getters & Setters.*
 
 - **Workshop 016**: Build a Media Catalogue
-
+ 
 *-> Key Skills: Inheritance & Polymorphism for Code Reuse, Name Mangling.*
 
 - **Workshop 017**: Build a Discount Calculator
+- **Lab 018**: Build a Player Interface
 
 *-> Key Skills: Abstraction.*
