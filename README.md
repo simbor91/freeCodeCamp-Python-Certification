@@ -47,3 +47,5 @@ Uploading of the small projects developed during this course
 - **Lab 018**: Build a Player Interface
 
 *-> Key Skills: Abstraction.*
+
+- **Certification Project 019**: Build a Polygon Area Calculator
