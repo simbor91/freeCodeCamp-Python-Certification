@@ -49,3 +49,8 @@ Uploading of the small projects developed during this course
 *-> Key Skills: Abstraction.*
 
 - **Certification Project 019**: Build a Polygon Area Calculator
+
+### Linear Data Structures
+- **Workshop 020**: Build a Linked List
+
+*-> Key Skills: Algorithm & Big O Notation, Dynamic & Static Arrays, Stacks & Queues, Sinlgy Linked & Doubly Linked Lists, Maps, Hash Maps & Sets.*
