@@ -53,4 +53,4 @@ Uploading of the small projects developed during this course
 ### Linear Data Structures
 - **Workshop 020**: Build a Linked List
 
-*-> Key Skills: Algorithm & Big O Notation, Dynamic & Static Arrays, Stacks & Queues, Sinlgy Linked & Doubly Linked Lists, Maps, Hash Maps & Sets.*
+*-> Key Skills: Algorithm & Big O Notation, Dynamic & Static Arrays, Stacks & Queues, Sinlgy Linked & Doubly Linked Lists, Hash Maps & Sets.*
