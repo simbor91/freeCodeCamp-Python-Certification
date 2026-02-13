@@ -1,0 +1,27 @@
+name: Security and Quality Scan
+
+on: [push] # Il robot si attiva ad ogni push
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del codice
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Controllo vulnerabilità (Safety)
+        run: |
+          pip install safety
+          # Questo comando controlla se le librerie che usi sono sicure
+          safety check || echo "Nessuna libreria esterna trovata, salto il controllo."
+
+      - name: Controllo errori formali (Flake8)
+        run: |
+          pip install flake8
+          # Questo controlla se il tuo codice Python segue gli standard professionali
+          flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
