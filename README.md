@@ -1,57 +1,71 @@
 ### freeCodeCamp-Python-Certification
+
 Uploading of the small projects developed during this course
 
 # Learning Log
-### Python Basics
-- **Workshop 001**: Build a Ceaser Cipher
-- **Lab 002**: Build an RPG Character
 
-*-> Key Skills: Variables & Data Types, Strings, Numbers & Mathematical Operations, Booleans & Conditionals, Functions & Scope.*
+### Python Basics
+
+* **Workshop 001**: Build a Ceaser Cipher
+* **Lab 002**: Build an RPG Character
+
+*-> Key Skills: Variables \& Data Types, Strings, Numbers \& Mathematical Operations, Booleans \& Conditionals, Functions \& Scope.*
 
 ### Loops and Sequences
-- **Workshop 004**: Build a Pin Extractor
-- **Lab 005**: Build a Number Pattern Generator
 
-*-> Key Skills: Lists, Tuples, Ranges, Enumerate & Zip Functions, List Comprehensions, Lambda Functions.*
+* **Workshop 004**: Build a Pin Extractor
+* **Lab 005**: Build a Number Pattern Generator
+
+*-> Key Skills: Lists, Tuples, Ranges, Enumerate \& Zip Functions, List Comprehensions, Lambda Functions.*
 
 ### Dictionaries and Sets
-- **Workshop 006**: Build a Medical Data Validator
-- **Certification Project 007**: Build a User Configuration Manager
+
+* **Workshop 006**: Build a Medical Data Validator
+* **Certification Project 007**: Build a User Configuration Manager
 
 *-> Key Skills: Dictionaries, Sets, Modules.*
 
 ### Error Handling
-- **Lab 008**: Debug an ISBN Validator
+
+* **Lab 008**: Debug an ISBN Validator
 
 *-> Key Skills: Error Messages, Exceptions, Raise Statement*
 
 ### Classes and Objects
-- **Workshop 010**: Build a Musical Instrument Inventory
-- **Lab 011**: Build a Planet Class
-- **Workshop 012**: Build an Email Simulator
-- **Certification Project 013**: Build a Budget App
 
-*-> Key Skills: Methods & Attributes, Special Methods, Object Attributes.*
+* **Workshop 010**: Build a Musical Instrument Inventory
+* **Lab 011**: Build a Planet Class
+* **Workshop 012**: Build an Email Simulator
+* **Certification Project 013**: Build a Budget App
+
+*-> Key Skills: Methods \& Attributes, Special Methods, Object Attributes.*
 
 ### Objects-Oriented Programming (OOP)
-- **Workshop 014**: Build a Salary Tracker
-- **Lab 015**: Build a Game Character Stats Tracker 
 
-*-> Key Skills: OOP & Encapsulation, Getters & Setters.*
+* **Workshop 014**: Build a Salary Tracker
+* **Lab 015**: Build a Game Character Stats Tracker
 
-- **Workshop 016**: Build a Media Catalogue
- 
-*-> Key Skills: Inheritance & Polymorphism for Code Reuse, Name Mangling.*
+*-> Key Skills: OOP \& Encapsulation, Getters \& Setters.*
 
-- **Workshop 017**: Build a Discount Calculator
-- **Lab 018**: Build a Player Interface
+* **Workshop 016**: Build a Media Catalogue
+
+*-> Key Skills: Inheritance \& Polymorphism for Code Reuse, Name Mangling.*
+
+* **Workshop 017**: Build a Discount Calculator
+* **Lab 018**: Build a Player Interface
 
 *-> Key Skills: Abstraction.*
 
-- **Certification Project 019**: Build a Polygon Area Calculator
+* **Certification Project 019**: Build a Polygon Area Calculator
 
 ### Linear Data Structures
-- **Workshop 020**: Build a Linked List
-- **Certification Project 021**: Build an Hash Table
 
-*-> Key Skills: Algorithm & Big O Notation, Dynamic & Static Arrays, Stacks & Queues, Sinlgy Linked & Doubly Linked Lists, Hash Maps & Sets.*
+* **Workshop 020**: Build a Linked List
+* **Certification Project 021**: Build an Hash Table
+
+*-> Key Skills: Algorithm \& Big O Notation, Dynamic \& Static Arrays, Stacks \& Queues, Sinlgy Linked \& Doubly Linked Lists, Hash Maps \& Sets.*
+
+### Algorithms
+
+*-> Key Skills: Binary \& Linear Search, Merge Sort.*
+
