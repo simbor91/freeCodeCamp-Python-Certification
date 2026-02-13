@@ -52,5 +52,6 @@ Uploading of the small projects developed during this course
 
 ### Linear Data Structures
 - **Workshop 020**: Build a Linked List
+- **Certification Project 021**: Build an Hash Table
 
 *-> Key Skills: Algorithm & Big O Notation, Dynamic & Static Arrays, Stacks & Queues, Sinlgy Linked & Doubly Linked Lists, Hash Maps & Sets.*
