@@ -69,6 +69,7 @@ Uploading of the small projects developed during this course
 
 * **Workshop 022**: Implement the Binary Search Algorithm
 * **Lab 023**: Implement the Bisection Method
-
+* **Workshop 024**: Implement the Merge Sort Algorithm
+* 
 *-> Key Skills: Binary \& Linear Search, Merge Sort.*
 
