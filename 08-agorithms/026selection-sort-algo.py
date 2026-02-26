@@ -1,5 +1,5 @@
 # Algorithms
-# Lab 026: Implement the Selection Sort Algorithm
+# 026 Lab: Implement the Selection Sort Algorithm
 
 # time complexity O(n^2)
 # space complexity O(1)

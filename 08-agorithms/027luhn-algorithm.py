@@ -1,5 +1,5 @@
 # Algorithms
-# Lab 027: Implement the Luhn Algorithm
+# 027 Lab: Implement the Luhn Algorithm
 
 def verify_card_number(card_number):
     card_number = [int(digit) for digit in card_number if digit.isdigit()] # pulisci da spazi o trattini
