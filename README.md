@@ -72,7 +72,8 @@ Uploading of the small projects developed during this course
 * **Workshop 024**: Implement the Merge Sort Algorithm
 * **Lab 025**: Implement the Quicksort Algorithm
 * **Lab 026**: Implement the Selection Sort Algorithm
-* <b>Lab 027</b>: Implement the Luhn Algorithm
-* 
+* **Lab 027**: Implement the Luhn Algorithm
+* **Certification Project 028**: Implement the Tower of Hanoi Algorithm
+
 *-> Key Skills: Binary \& Linear Search, Merge Sort.*
 
