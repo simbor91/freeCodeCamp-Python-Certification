@@ -77,3 +77,9 @@ Uploading of the small projects developed during this course
 
 *-> Key Skills: Binary \& Linear Search, Merge Sort.*
 
+### Graphs and Trees
+
+* **Workshop 029**: Implement the Shortes Path Algorithm
+
+*-> Key Skills: Depth First Search \& Breadth First Search, Matrices \& Adjacency Lists, Trees \& Tries, Priorty Queues \& Heaps.*
+
