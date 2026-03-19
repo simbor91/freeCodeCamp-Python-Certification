@@ -13,13 +13,12 @@ def verify_card_number(card_number):
     for i, digit in enumerate(card_number):
         # print(f'halfway check {card_number[i]} a indice {i}')
         if i%2 == 1: # indice dispari    
-            reworked_digit = int(card_number[i])*2
+            reworked_digit = digit*2
             if reworked_digit >= 10:
                 reworked_digit -= 9
             sum_2char.append(reworked_digit)
         else:
-            reworked_digit = int(card_number[i])
-            sum_2char.append(reworked_digit)
+            sum_2char.append(digit)
     # print(f'halfway check array moltiplicato: {sum_2char}')
     
     sum_numbers = 0
