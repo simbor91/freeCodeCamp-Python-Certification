@@ -1,3 +1,6 @@
+# Graphs and Trees
+# 029 Workshop: Implement the Shortest Path Algorithm
+
 INF = float('inf')
 adj_matrix = [
     [0, 5, 3, INF, 11, INF],
