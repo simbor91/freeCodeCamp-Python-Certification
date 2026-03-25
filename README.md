@@ -81,6 +81,7 @@ Uploading of the small projects developed during this course
 
 * **Workshop 029**: Implement the Shortes Path Algorithm
 * **Lab 030**: Build an Adjacency List to Matrix Converter
+* **Workshop 031**: Implement the Breadth-First Search Algorithm
 
 *-> Key Skills: Depth First Search \& Breadth First Search, Matrices \& Adjacency Lists, Trees \& Tries, Priorty Queues \& Heaps.*
 
