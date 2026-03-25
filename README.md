@@ -80,6 +80,7 @@ Uploading of the small projects developed during this course
 ### Graphs and Trees
 
 * **Workshop 029**: Implement the Shortes Path Algorithm
+* **Lab 030**: Build an Adjacency List to Matrix Converter
 
 *-> Key Skills: Depth First Search \& Breadth First Search, Matrices \& Adjacency Lists, Trees \& Tries, Priorty Queues \& Heaps.*
 
